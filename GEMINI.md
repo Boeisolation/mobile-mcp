@@ -12,3 +12,12 @@
 - **最新 GUI 会话**: `贝壳找房接口集成` (ID: `local_17116514-0051-44a8-acf0-59ce6e871841`)
 - **最新会话进展状态**: 
 - **工作记录全量索引**: 查阅 [`docs/ANTIGRAVITY_WORK_RECORD.md`](docs/ANTIGRAVITY_WORK_RECORD.md)。
+
+
+---
+## Claude Code 迁移进度与活跃上下文 (CLI + GUI + Web 全量归档)
+
+- 本工程包含 **0 条 CLI 记忆文件**、**2 场 Desktop 会话** 与 **0 场云端对话**。
+- **最新 Desktop 会话**: `贝壳找房接口集成` (ID: `local_17116514-0051-44a8-acf0-59ce6e871841`)
+- **最新会话进展状态**: 
+- **工作记录全量索引**: 查阅 [`docs/ANTIGRAVITY_WORK_RECORD.md`](docs/ANTIGRAVITY_WORK_RECORD.md)。
